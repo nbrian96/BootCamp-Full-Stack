@@ -1,6 +1,3 @@
 # BootCamp-Full-Stack
  
-(https://fullstackopen.com/es/)
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+[Full stack open 2021](https://fullstackopen.com/es/)
